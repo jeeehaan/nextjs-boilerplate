@@ -1,6 +1,6 @@
-# Next.js Boilerplate
+# Next.js Starter Template
 
-Next.js Boilerplate with following setup:
+Next.js Starter Template packed with these useful tooling:
 
 - [Next.js 14 with App Router](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -8,5 +8,4 @@ Next.js Boilerplate with following setup:
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://typicode.github.io/husky/#/)
-- Storybook
-- Prisma
+- [Shadcn/ui](https://ui.shadcn.com/)
