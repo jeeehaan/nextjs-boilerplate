@@ -12,3 +12,4 @@ Next.js Starter Template packed with these useful tooling:
 - [Husky](https://typicode.github.io/husky/#/)
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [Prisma](https://www.prisma.io/)
+- [NextAuth.js](https://next-auth.js.org/)
