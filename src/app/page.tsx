@@ -1,9 +1,8 @@
-import { Button } from '@/components/ui/button';
-
 export default function Home() {
   return (
-    <Button variant="destructive" size="lg">
-      Hello World
-    </Button>
+    <div className="flex h-screen flex-col items-center justify-center">
+      <h1 className=" text-4xl font-bold">Next.js Starter Template</h1>
+      <p>by @jeeehaan</p>
+    </div>
   );
 }
