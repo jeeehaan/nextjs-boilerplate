@@ -6,6 +6,7 @@
     "airbnb",
     "airbnb-typescript"
   ],
+  "plugins": ["simple-import-sort"],
   "parserOptions": {
     "project": "./tsconfig.json"
   },
@@ -17,6 +18,8 @@
     "arrow-body-style": "off",
     "import/no-extraneous-dependencies": "off",
     "react/jsx-props-no-spreading": "off",
+    "simple-import-sort/imports": "error",
+    "simple-import-sort/exports": "error",
     "@typescript-eslint/no-unused-vars": [
       "error",
       {

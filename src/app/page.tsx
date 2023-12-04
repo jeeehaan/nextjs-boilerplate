@@ -1,8 +1,9 @@
 'use client';
 
-import { Button } from '@/components/ui/button';
-import { signIn } from 'next-auth/react';
 import Image from 'next/image';
+import { signIn } from 'next-auth/react';
+
+import { Button } from '@/components/ui/button';
 
 export default function Home() {
   return (
